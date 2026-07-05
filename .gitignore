@@ -1,0 +1,15 @@
+# .gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local temporary and export files
+temp_clipboard.gif
+temp_copy.gif
+*.gif
+
+# IDE settings
+.vscode/
+.idea/
