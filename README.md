@@ -1,5 +1,7 @@
 # 🎬 GIF Snipper
 
+![GIF Snipper Demonstration](https://github.com/albatrossSKY/gif-snipper/blob/main/snipgif.gif?raw=true)
+
 A high-performance Windows desktop application that captures selected screen regions and records them directly into animated GIFs. It includes a post-capture editor for spatial cropping, timeline trimming, scaling, drawing annotations, redacting sensitive content, and instant sharing.
 
 ---
