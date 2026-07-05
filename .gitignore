@@ -13,3 +13,9 @@ temp_copy.gif
 # IDE settings
 .vscode/
 .idea/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
